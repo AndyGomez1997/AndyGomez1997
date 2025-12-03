@@ -68,7 +68,7 @@
         <tr>
           <td width="15%">Dart</td>
           <td width="100%"><img src="https://geps.dev/progress/51?color=00B4AB&danger=true" alt="51%"></td>
-          <td width="20%">51.0%</td>
+          <td width="100%">51.0%</td>
         </tr>
       </table>
     </td>
