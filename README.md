@@ -80,6 +80,16 @@
           <td width="100%"><img src="https://geps.dev/progress/81?color=00B4AB&danger=true" alt="51%"></td>
           <td width="100%">81.0%</td>
         </tr>
+        <tr>
+          <td width="15%">Flutter</td>
+          <td width="100%"><img src="https://geps.dev/progress/74?color=00B4AB&danger=true" alt="51%"></td>
+          <td width="100%">74.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">NodeJs</td>
+          <td width="100%"><img src="https://geps.dev/progress/48?color=00B4AB&danger=true" alt="51%"></td>
+          <td width="100%">48.0%</td>
+        </tr>
       </table>
     </td>
   </tr>
