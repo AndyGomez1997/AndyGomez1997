@@ -47,27 +47,27 @@
       <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr>
           <td width="15%">JavaScript</td>
-          <td width="65%"><img src="https://geps.dev/progress/83?color=F7DF1E&danger=true" alt="83%"></td>
+          <td width="100%"><img src="https://geps.dev/progress/83?color=F7DF1E&danger=true" alt="83%"></td>
           <td width="20%">83.0%</td>
         </tr>
         <tr>
           <td width="15%">HTML</td>
-          <td width="65%"><img src="https://geps.dev/progress/100?color=E34F26&danger=true" alt="100%"></td>
+          <td width="100%"><img src="https://geps.dev/progress/100?color=E34F26&danger=true" alt="100%"></td>
           <td width="20%">100.0%</td>
         </tr>
         <tr>
           <td width="15%">CSS</td>
-          <td width="65%"><img src="https://geps.dev/progress/72?color=1572B6&danger=true" alt="72%"></td>
+          <td width="100%"><img src="https://geps.dev/progress/72?color=1572B6&danger=true" alt="72%"></td>
           <td width="20%">72.0%</td>
         </tr>
         <tr>
           <td width="15%">C++</td>
-          <td width="65%"><img src="https://geps.dev/progress/5?color=00599C&danger=true" alt="5%"></td>
+          <td width="100%"><img src="https://geps.dev/progress/5?color=00599C&danger=true" alt="5%"></td>
           <td width="20%">5.0%</td>
         </tr>
         <tr>
           <td width="15%">Dart</td>
-          <td width="65%"><img src="https://geps.dev/progress/51?color=00B4AB&danger=true" alt="51%"></td>
+          <td width="100%"><img src="https://geps.dev/progress/51?color=00B4AB&danger=true" alt="51%"></td>
           <td width="20%">51.0%</td>
         </tr>
       </table>
