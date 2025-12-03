@@ -70,6 +70,11 @@
           <td width="100%"><img src="https://geps.dev/progress/51?color=00B4AB&danger=true" alt="51%"></td>
           <td width="100%">51.0%</td>
         </tr>
+        <tr>
+          <td width="15%">React</td>
+          <td width="100%"><img src="https://geps.dev/progress/85?color=00B4AB&danger=true" alt="51%"></td>
+          <td width="100%">85.0%</td>
+        </tr>
       </table>
     </td>
   </tr>
