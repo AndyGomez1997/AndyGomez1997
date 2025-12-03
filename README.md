@@ -37,10 +37,9 @@
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <!-- Streak Stats (Usando servidor más estable 'demolab') -->
-      <img src="https://github-readme-streak-stats.demolab.com/?user=AndyGomez1997&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="100%" />
+      <!-- Streak Stats / General Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGomez1997&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="100%" />
       <br><br>
-      <!-- General Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=AndyGomez1997&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="General Stats" width="100%" />
     </td>
     <td width="50%" valign="top">
