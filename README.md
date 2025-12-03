@@ -42,65 +42,35 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=AndyGomez1997&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" alt="General Stats" width="100%" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <!-- Custom "Card" container for Top Languages -->
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
-        
-        <h3 style="margin-top: 0; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Most Used Languages</h3>
-        
-        <table border="0" cellspacing="0" cellpadding="0" width="100%">
-          <!-- JavaScript -->
-          <tr>
-            <td width="20%" style="color: #c9d1d9; font-size: 12px; padding: 5px 0;">JavaScript</td>
-            <td width="60%" style="padding: 5px 10px;">
-              <div style="width: 100%; background-color: #30363d; height: 8px; border-radius: 4px;">
-                <div style="width: 50%; background-color: #F7DF1E; height: 8px; border-radius: 4px;"></div>
-              </div>
-            </td>
-            <td width="20%" style="color: #8b949e; font-size: 12px; text-align: right; padding: 5px 0;">50.0%</td>
-          </tr>
-          <!-- HTML -->
-          <tr>
-            <td width="20%" style="color: #c9d1d9; font-size: 12px; padding: 5px 0;">HTML</td>
-            <td width="60%" style="padding: 5px 10px;">
-              <div style="width: 100%; background-color: #30363d; height: 8px; border-radius: 4px;">
-                <div style="width: 30%; background-color: #E34F26; height: 8px; border-radius: 4px;"></div>
-              </div>
-            </td>
-            <td width="20%" style="color: #8b949e; font-size: 12px; text-align: right; padding: 5px 0;">30.0%</td>
-          </tr>
-          <!-- CSS -->
-          <tr>
-            <td width="20%" style="color: #c9d1d9; font-size: 12px; padding: 5px 0;">CSS</td>
-            <td width="60%" style="padding: 5px 10px;">
-              <div style="width: 100%; background-color: #30363d; height: 8px; border-radius: 4px;">
-                <div style="width: 15%; background-color: #1572B6; height: 8px; border-radius: 4px;"></div>
-              </div>
-            </td>
-            <td width="20%" style="color: #8b949e; font-size: 12px; text-align: right; padding: 5px 0;">15.0%</td>
-          </tr>
-          <!-- C++ -->
-          <tr>
-            <td width="20%" style="color: #c9d1d9; font-size: 12px; padding: 5px 0;">C++</td>
-            <td width="60%" style="padding: 5px 10px;">
-              <div style="width: 100%; background-color: #30363d; height: 8px; border-radius: 4px;">
-                <div style="width: 5%; background-color: #00599C; height: 8px; border-radius: 4px;"></div>
-              </div>
-            </td>
-            <td width="20%" style="color: #8b949e; font-size: 12px; text-align: right; padding: 5px 0;">5.0%</td>
-          </tr>
-          <!-- Dart (Added for flavor) -->
-          <tr>
-            <td width="20%" style="color: #c9d1d9; font-size: 12px; padding: 5px 0;">Dart</td>
-            <td width="60%" style="padding: 5px 10px;">
-              <div style="width: 100%; background-color: #30363d; height: 8px; border-radius: 4px;">
-                <div style="width: 4%; background-color: #00B4AB; height: 8px; border-radius: 4px;"></div>
-              </div>
-            </td>
-            <td width="20%" style="color: #8b949e; font-size: 12px; text-align: right; padding: 5px 0;">4.0%</td>
-          </tr>
-        </table>
-      </div>
+    <td width="50%" valign="top">
+      <h3 align="center">Most Used Languages</h3>
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+          <td width="15%">JavaScript</td>
+          <td width="65%"><img src="https://progress-bar.dev/50/?scale=100&title=progress&width=200&color=f7df1e&suffix=%" alt="50%"></td>
+          <td width="20%">50.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">HTML</td>
+          <td width="65%"><img src="https://progress-bar.dev/30/?scale=100&title=progress&width=200&color=e34f26&suffix=%" alt="30%"></td>
+          <td width="20%">30.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">CSS</td>
+          <td width="65%"><img src="https://progress-bar.dev/15/?scale=100&title=progress&width=200&color=1572b6&suffix=%" alt="15%"></td>
+          <td width="20%">15.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">C++</td>
+          <td width="65%"><img src="https://progress-bar.dev/5/?scale=100&title=progress&width=200&color=00599c&suffix=%" alt="5%"></td>
+          <td width="20%">5.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">Dart</td>
+          <td width="65%"><img src="https://progress-bar.dev/4/?scale=100&title=progress&width=200&color=00b4ab&suffix=%" alt="4%"></td>
+          <td width="20%">4.0%</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
