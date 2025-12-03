@@ -40,34 +40,34 @@
       <!-- Streak Stats / General Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGomez1997&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=AndyGomez1997&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" alt="General Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AndyGomez1997&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="General Stats" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Most Used Languages</h3>
       <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr>
           <td width="15%">JavaScript</td>
-          <td width="65%"><img src="https://progress-bar.dev/50/?scale=100&title=progress&width=200&color=f7df1e&suffix=%" alt="50%"></td>
+          <td width="65%"><img src="https://geps.dev/progress/50?color=F7DF1E&danger=true" alt="50%"></td>
           <td width="20%">50.0%</td>
         </tr>
         <tr>
           <td width="15%">HTML</td>
-          <td width="65%"><img src="https://progress-bar.dev/30/?scale=100&title=progress&width=200&color=e34f26&suffix=%" alt="30%"></td>
+          <td width="65%"><img src="https://geps.dev/progress/30?color=E34F26&danger=true" alt="30%"></td>
           <td width="20%">30.0%</td>
         </tr>
         <tr>
           <td width="15%">CSS</td>
-          <td width="65%"><img src="https://progress-bar.dev/15/?scale=100&title=progress&width=200&color=1572b6&suffix=%" alt="15%"></td>
+          <td width="65%"><img src="https://geps.dev/progress/15?color=1572B6&danger=true" alt="15%"></td>
           <td width="20%">15.0%</td>
         </tr>
         <tr>
           <td width="15%">C++</td>
-          <td width="65%"><img src="https://progress-bar.dev/5/?scale=100&title=progress&width=200&color=00599c&suffix=%" alt="5%"></td>
+          <td width="65%"><img src="https://geps.dev/progress/5?color=00599C&danger=true" alt="5%"></td>
           <td width="20%">5.0%</td>
         </tr>
         <tr>
           <td width="15%">Dart</td>
-          <td width="65%"><img src="https://progress-bar.dev/4/?scale=100&title=progress&width=200&color=00b4ab&suffix=%" alt="4%"></td>
+          <td width="65%"><img src="https://geps.dev/progress/4?color=00B4AB&danger=true" alt="4%"></td>
           <td width="20%">4.0%</td>
         </tr>
       </table>
