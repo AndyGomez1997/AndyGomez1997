@@ -36,7 +36,7 @@
 <h3 align="center">My Statistics:</h3>
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <!-- Streak Stats / General Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGomez1997&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="100%" />
       <br><br>
