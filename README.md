@@ -34,7 +34,7 @@
 
 <!-- Statistics Section (2 Columns) -->
 <h3 align="center">My Statistics:</h3>
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+<table align="center" width="120%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="70%" align="center" valign="top">
       <!-- Streak Stats / General Stats -->
