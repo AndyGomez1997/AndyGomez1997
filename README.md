@@ -18,7 +18,7 @@
       <ul>
         <li>🔭 I’m currently working on <strong>Web & Mobile App Development</strong></li>
         <li>🌱 I’m currently learning <strong>Advanced Software Architecture</strong></li>
-        <li>🧑‍🎓 I’m a Junior Developer at <strong>Independent Projects</strong></li>
+        <li>🧑‍🎓 I’m a Developer at <strong>Independent Projects</strong></li>
         <li>💬 Ask me about <strong>React, Flutter, Node.js & SQL</strong></li>
         <li>📫 How to reach me <strong>anderson.gomez@example.com</strong></li>
         <li>⚡ Fun fact <strong>I love coding late at night!</strong></li>
