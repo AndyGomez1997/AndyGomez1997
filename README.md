@@ -34,7 +34,7 @@
 
 <!-- Statistics Section (2 Columns) -->
 <h3 align="center">My Statistics:</h3>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
       <!-- Streak Stats / General Stats -->
@@ -43,8 +43,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AndyGomez1997&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" alt="General Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGomez1997&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" alt="Top Langs" width="100%" />
+      <!-- Top Languages (Standard Layout showing progress bars) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGomez1997&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
