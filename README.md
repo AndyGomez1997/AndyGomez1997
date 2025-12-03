@@ -56,7 +56,7 @@
           <td width="20%">100.0%</td>
         </tr>
         <tr>
-          <td width="15%">CSS</td>
+          <td width="72%">CSS</td>
           <td width="65%"><img src="https://geps.dev/progress/15?color=1572B6&danger=true" alt="72%"></td>
           <td width="20%">72.0%</td>
         </tr>
