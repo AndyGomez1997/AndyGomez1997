@@ -46,14 +46,14 @@
       <h3 align="center">Most Used Languages</h3>
       <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr>
-          <td width="15%">JavaScript</td>
-          <td width="100%"><img src="https://geps.dev/progress/83?color=F7DF1E&danger=true" alt="83%"></td>
-          <td width="20%">83.0%</td>
-        </tr>
-        <tr>
           <td width="15%">HTML</td>
           <td width="100%"><img src="https://geps.dev/progress/100?color=E34F26&danger=true" alt="100%"></td>
           <td width="20%">100.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">JavaScript</td>
+          <td width="100%"><img src="https://geps.dev/progress/83?color=F7DF1E&danger=true" alt="83%"></td>
+          <td width="20%">83.0%</td>
         </tr>
         <tr>
           <td width="15%">CSS</td>
@@ -74,6 +74,11 @@
           <td width="15%">React</td>
           <td width="100%"><img src="https://geps.dev/progress/85?color=00B4AB&danger=true" alt="51%"></td>
           <td width="100%">85.0%</td>
+        </tr>
+        <tr>
+          <td width="15%">PHP</td>
+          <td width="100%"><img src="https://geps.dev/progress/81?color=00B4AB&danger=true" alt="51%"></td>
+          <td width="100%">81.0%</td>
         </tr>
       </table>
     </td>
